@@ -1,28 +1,14 @@
-# Alx The Maze project
+# ALX TheMaze project
 
 ## Background Context
 The goal of this project is to create a game using raycasting.
 
-## Requirements
-
-### General
-- All your files will be compiled on Ubuntu 14.04 LTS, using gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4.
-- We will use the gcc flags -Wall -Werror -Wextra and -pedantic.
-- All your functions must be commented.
-- Your functions should be maximum 40 lines long (one statement per line).
-- Your functions should be maximum 80 columns long.
-- No more than 5 functions per file.
-
-### Betty
-- Your entire repository will be checked using Betty.
-- Don’t push any object files .o or temporary files *~, or any unused source file if you don’t want to lose points!
-- It is advised to always keep a clear organization in your repository. For example, store all your sources in a src directory, and all your headers in a inc, headers or dependencies folder.
 
 ## Installation
 
 Clone this repo:
 ```bash
-git clone https://github.com/ysfjr1/TheMaze.git
+git clone https://github.com/lijnati/TheMaze.git
 ```
 ## Compiling
 This project makes use of gcc and make for the compilation process.
