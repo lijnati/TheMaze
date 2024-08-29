@@ -1,4 +1,5 @@
 #include "../headers/header.h"
+#include <float.h>
 
 ray_t rays[NUM_RAYS];
 
